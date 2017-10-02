@@ -5,6 +5,7 @@ html {
 .masthead {
   background-color: #588477;
   color: #fff;
+  background-image: url("../images/leaf-bg.svg");
 }
 
 .logo {
@@ -32,6 +33,7 @@ html {
 
 .banner-content {
   color: #fff;
+  background-image: url("../images/two-leaves.svg");
 
 }
 

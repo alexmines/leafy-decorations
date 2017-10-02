@@ -6,6 +6,11 @@ html {
   background-color: #588477;
   color: #fff;
   background-image: url("../images/leaf-bg.svg");
+  border-top: 3px solid #2d5a4d;
+  border-bottom: 3px solid #2d5a4d;
+  background-size: 64px auto;
+  background-repeat: repeat;
+  background-position: left top;
 }
 
 .logo {
@@ -20,11 +25,17 @@ html {
   text-decoration: none;
   background-color: #467366;
   color: #fff;
+  border: 3px solid #2d5a4d;
+  border-radius: 8px;
 }
 
 .nav a:hover {
   background-color: #fff;
   color: #467366;
+  background-image: url("../images/leaf-icon.svg");
+  background-repeat: repeat-x;
+  background-size: 64px auto;
+  background-position: .75em .75em;
 }
 
 .banner {

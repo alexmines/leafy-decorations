@@ -3,7 +3,8 @@ html {
 }
 
 .masthead {
-
+  background-color: #588477;
+  color: #fff;
 }
 
 .logo {
@@ -16,10 +17,13 @@ html {
 
 .nav a {
   text-decoration: none;
+  background-color: #467366;
+  color: #fff;
 }
 
 .nav a:hover {
-
+  background-color: #fff;
+  color: #467366;
 }
 
 .banner {
@@ -27,6 +31,7 @@ html {
 }
 
 .banner-content {
+  color: #fff;
 
 }
 
